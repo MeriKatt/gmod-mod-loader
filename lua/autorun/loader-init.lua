@@ -1,3 +1,3 @@
 if SERVER then
-	include("loader-config.lua")
+	include("mod-loader-main.lua")
 end
